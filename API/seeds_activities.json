@@ -1,0 +1,56 @@
+[
+    {
+        "Id" : "5da5d478-99cb-4aab-b670-7e3742f10cb3",
+        "Title" : "Activity 1",
+        "Date" : "2021-12-30",
+        "Decsription" : "This is activity 1",
+        "Category" : "Drinks",
+        "City" : "Cairo",
+        "Venue" : "Pub"
+    },
+    {
+        "Id" : "ea035660-04f9-4631-bfc5-d9e0b3767667",
+        "Title" : "Activity 2",
+        "Date" : "2022-01-20",
+        "Decsription" : "This is activity 2",
+        "Category" : "Sports",
+        "City" : "London",
+        "Venue" : "Big Arena"
+    },
+    {
+        "Id" : "a4fb81f4-b208-401f-a4df-57b1477d81e7",
+        "Title" : "Activity 3",
+        "Date" : "2020-11-26",
+        "Decsription" : "This is activity 3",
+        "Category" : "Food",
+        "City" : "Dubai",
+        "Venue" : "Mall"
+    },
+    {
+        "Id" : "b9c72c7a-020b-4baf-a4c1-ece683eda9df",
+        "Title" : "Activity 4",
+        "Date" : "2022-04-23",
+        "Decsription" : "This is activity 4",
+        "Category" : "Dance",
+        "City" : "New York",
+        "Venue" : "Garden"
+    },
+    {
+        "Id" : "dc8756b7-2fb2-47e7-9720-7829e110d3fa",
+        "Title" : "Activity 5",
+        "Date" : "2022-05-19",
+        "Decsription" : "This is activity 5",
+        "Category" : "Music",
+        "City" : "Doha",
+        "Venue" : "Opera"
+    },
+    {
+        "Id" : "3b095e16-e761-47a3-a059-de441c1ff97c",
+        "Title" : "Activity 6",
+        "Date" : "2020-05-15",
+        "Decsription" : "This is activity 6",
+        "Category" : "Food",
+        "City" : "Alexandria",
+        "Venue" : "Abu Rami"
+    }
+]
